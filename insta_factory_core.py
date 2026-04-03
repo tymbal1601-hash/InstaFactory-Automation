@@ -120,7 +120,7 @@ class InstaFactoryApp:
 
     def on_start_click(self, e):
         """Spawns background threads for each profile to prevent UI freezing"""
-        active_profiles = ["Pixel_6_Emulator", "Samsung_S21_Real"]
+        active_profiles = ["X_mobile", "Y_mobile"]
         
         for profile_name in active_profiles:
             instance = ProfileInstance(profile_name, self)
