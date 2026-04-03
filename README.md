@@ -1,4 +1,4 @@
-# 📱 InstaFactory Pro
+# 📱 InstaFactory-Automation
 ### *Multi-Device Mobile Automation System*
 
 ---
@@ -17,7 +17,7 @@
 * **🔌 Hybrid ADB Integration**
     Combines high-level UI automation with low-level **ADB** commands for lightning-fast file transfers and media scanning.
 * **🛡️ Smart VPN Controller**
-    Native support for **HMA** and **hide.me VPN**, ensuring unique IP addresses for every session to minimize ban risks.
+    Native support for **VPN**, ensuring unique IP addresses for every session to minimize ban risks.
 * **🔐 Security & Licensing**
     Custom **NTP-based verification** system that validates license integrity against global network time (bypassing local clock manipulation).
 * **📊 Real-time Logging**
