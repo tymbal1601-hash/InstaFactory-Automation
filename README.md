@@ -6,6 +6,7 @@
 ## 🚀 Overview
 **InstaFactory Pro** is a high-performance automation solution designed for scalable Instagram content management. Built with **Python**, **Appium**, and **Flet**, it enables seamless, parallel execution of complex tasks across multiple Android devices or emulators simultaneously.
 
+<img width="1280" height="855" alt="image" src="https://github.com/user-attachments/assets/0be814b2-41a2-4ad4-b119-c02813552073" />
 
 ---
 
